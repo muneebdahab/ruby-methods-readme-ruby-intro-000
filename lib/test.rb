@@ -1,4 +1,4 @@
-def muneeb
+def muneeb_ten_times
 phrase = "Am the goat here"
 puts phrase
 puts phrase
