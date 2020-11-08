@@ -11,3 +11,5 @@ def muneeb_ten_times
  puts phrase
  puts phrase
 end
+
+muneeb_ten_times
