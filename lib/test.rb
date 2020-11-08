@@ -1,5 +1,5 @@
 def muneeb
-phrase = "Am the f**kin goat here"
+phrase = "Am the goat here"
 puts phrase
 puts phrase
 puts phrase
